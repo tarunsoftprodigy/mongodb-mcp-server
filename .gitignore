@@ -4,10 +4,13 @@ node_modules
 .github/prompts/*
 
 # Environment variables
-.env
 
 # Sensitive
 state.json
 
 tests/tmp
 coverage
+config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
